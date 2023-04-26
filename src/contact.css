@@ -1,0 +1,67 @@
+/* CONTACT FORM - Reutilizable */
+body {
+    background: #F4F4F4;
+}
+#contact-form {
+    position: absolute;
+    background: #FFFFFF;
+    color: #4D4D4D;
+    font-family: 'Montserrat', sans-serif;
+    padding: 40px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.06),
+        0 0 0 1px rgba(63, 63, 68, 0.05);
+    border-radius: 8px;
+}
+input,
+textarea {
+    width: 100%;
+    border: none;
+    border-radius: 4px;
+    padding: 16px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    font-size: 16px;
+    font-family: inherit;
+    color: #4D4D4D;
+    background-color: #F4F4F4;
+}
+textarea {
+    height: 120px;
+    resize: none;
+}
+button {
+    width: 100%;
+    padding: 16px;
+    border: none;
+    cursor: pointer;
+    background: #2962FF;
+    font-weight: 600;
+    color: #FFFFFF;
+    font-size: 16px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    border-radius: 4px;
+    transition: all 0.2s ease-in-out;
+}
+button:hover {
+    background: #0039CB;
+}
+button:focus {
+    outline: none;
+    box-shadow: 0px 0px 0px 2px #2962FF,
+        0px 0px 0px 4px rgba(41, 98, 255, 0.2);
+}
+span {
+    display: none;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #4D4D4D;
+}
+.visible {
+    display: block;
+}
