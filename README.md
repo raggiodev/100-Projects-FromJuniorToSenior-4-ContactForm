@@ -19,6 +19,6 @@ Regex, in case the input needs to be verified with a pattern
 Handling happy and failure paths from a promise
 
 <h1 align="center">
-    <img src="react-contact-form-without-backend.png" alt="React contact form" />
+    <img src="react-contact-form.png" alt="React contact form" />
 </h1>
 <h3 align="center">You can view more on <strong><a href="https://github.com/JoeTheorium">JoeTheorium</a> & <a href="https://github.com/CarlosSebastianLorenzo"> CSL</a></strong> 💌</h3>
