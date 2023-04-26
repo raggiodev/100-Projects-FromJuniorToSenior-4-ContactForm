@@ -17,3 +17,8 @@ Fetch API
 Validating user input
 Regex, in case the input needs to be verified with a pattern
 Handling happy and failure paths from a promise
+
+<h1 align="center">
+    <img src="react-contact-form-without-backend.png" alt="React contact form" />
+</h1>
+<h4 align="center">You can view more on <strong><a href="https://github.com/JoeTheorium">webtips.dev</a></strong> 💌</h4>
