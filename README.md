@@ -7,16 +7,17 @@ Be able to fill out the contact form
 Validate that fields are not empty
 Validate that fields are valid
 Clear fields upon submission
-Be able to log the form values as a JSON object to the console
+Be able to log the form values as a JSON object to the console.
 
 Advanced:
-Be able to send an email with the details using an API call
+Be able to send an email with the details using an API call.
 
 🧠 Takeaways:
 Fetch API
 Validating user input
 Regex, in case the input needs to be verified with a pattern
-Handling happy and failure paths from a promise
+Handling happy and failure paths from a promise.
+
 <h1 align="center">
     <img src="" alt="" />
 </h1>
