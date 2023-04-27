@@ -16,8 +16,7 @@ Be able to send an email with the details using an API call
 Fetch API
 Validating user input
 Regex, in case the input needs to be verified with a pattern
-Handling happy and failure paths from a promise
-
+Handling happy and failure paths from a promise.
 <h1 align="center">
     <img src="" alt="" />
 </h1>
